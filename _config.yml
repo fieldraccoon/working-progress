@@ -1,10 +1,8 @@
-title: dash
-author: GitHub User
-email: miguel-gonzalez@gmx.de
+title: Fieldraccoon's blog
+author: Fieldraccoon
+email: fieldraccoon@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am Fieldraccoon, I like to do hackthebox, code and ctfs with my team.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 1
@@ -25,13 +23,10 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/fieldraccoon
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/fieldraccoon
       icon: github-square
       color: purple
 
